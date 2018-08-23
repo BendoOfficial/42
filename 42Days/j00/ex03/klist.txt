@@ -1,0 +1,7 @@
+st
+Credentials cache: API:4E0341FA-6FA5-40B5-95D1-14581665C28D
+        Principal: bepintea@42.FR
+
+		  Issued                Expires               Principal
+		  Jul 30 13:23:14 2018  Aug  6 13:23:14 2018  krbtgt/42.FR@42.FR
+
